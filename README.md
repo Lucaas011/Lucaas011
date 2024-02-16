@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Lucas Martins 😀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-martins-351b9019a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/martiins_02/)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucaas011&show_icons=true&theme=radical)
 
